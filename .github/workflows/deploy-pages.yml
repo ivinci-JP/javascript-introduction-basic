@@ -40,7 +40,8 @@ jobs:
       - name: Build honkit
         run: npm run honkit:build
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v1
+        id: deployment
+        uses: actions/upload-pages-artifact@v3
         with:
           path: _book/
   # Single deploy job since we're just deploying
