@@ -1,4 +1,4 @@
-# introduction-to-javascript-01
+# javascript-introduction-basic
 外部向け勉強会 JS入門
 
 ## セットアップ
