@@ -1,4 +1,7 @@
 {
     "root": "./docs",
-    "author": "i-vinci.co.jp"
+    "author": "i-vinci.co.jp",
+    "plugins": [
+        "expand-active-chapter"
+    ]
 }

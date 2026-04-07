@@ -3,8 +3,10 @@
     "honkit": "^6.1.7"
   },
   "scripts": {
-    "build": "honkit build",
-    "build:debug": "honkit build ./ --log=debug --debug",
-    "serve": "honkit serve"
+    "honkit:build": "honkit init && honkit build",
+    "honkit:serve": "honkit init && honkit serve"
+  },
+  "dependencies": {
+    "gitbook-plugin-expand-active-chapter": "^1.0.0"
   }
 }
