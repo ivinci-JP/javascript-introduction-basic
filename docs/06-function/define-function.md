@@ -39,5 +39,3 @@ main();
 
 [このリンク](https://paiza.io/projects/DDm_b7AsBhnhRQM7bBZQrA)を開き、
 実際に定義した関数を呼び出してみましょう。
-
-## 関数をから値を返す

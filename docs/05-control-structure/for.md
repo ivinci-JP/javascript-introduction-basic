@@ -7,7 +7,7 @@
 
 ## 構文の説明
 ```js
-for (/* 処理化 */; /* ループ条件判定 */; /* 更新 */) {
+for (/* 初期化 */; /* ループ条件判定 */; /* 更新 */) {
     /* 繰り返したい処理 */
 }
 ```
@@ -35,3 +35,11 @@ console.log('終了');
 
 というフローで実行されます。
 [このリンク](https://paiza.io/projects/4za6UoH5eii2tUiNpOxDJA)から実際に触ってみましょう。
+
+## 補足資料
+
+わかり難いと感じた方は下記のリンク先も参考にしてください。
+
+[for文を使った繰り返し処理 - JavaDrive](https://www.javadrive.jp/javascript/for/index2.html)
+
+
