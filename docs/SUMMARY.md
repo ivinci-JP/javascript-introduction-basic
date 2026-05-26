@@ -1,6 +1,6 @@
 # Summary
 
-* [JavaScript基礎](./README.md)
+* [JavaScript基礎編](./README.md)
 
 * [01.プログラムを書く前に](./01-intro/environment.md)
     * [開発環境・実行環境](./01-intro/environment.md)
