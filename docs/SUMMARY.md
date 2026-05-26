@@ -2,7 +2,7 @@
 
 * [JavaScript基礎](./README.md)
 
-* [01.プログラムを書く前に](./01-intro/index.md)
+* [01.プログラムを書く前に](./01-intro/environment.md)
     * [開発環境・実行環境](./01-intro/environment.md)
     * [JavaScriptについて](./01-intro/about-js.md)
     * [JavaScriptコンソールを使ってみる](./01-intro/js-console.md)
