@@ -3,6 +3,7 @@
     "node": "24.x"
   },
   "devDependencies": {
+    "gitbook-plugin-copy-code-button": "^0.0.2",
     "honkit": "^6.1.7"
   },
   "scripts": {

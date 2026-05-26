@@ -65,6 +65,12 @@
             font-weight: bold;
             margin-right: 8px;
         }
+
+        & li {
+            &::before {
+                content: "○";
+            }
+        }
     }
 
     /* --- Page Inner --- */
@@ -76,6 +82,10 @@
     & code,
     & pre {
         font-family: monospace;
+    }
+
+    & button.copy-code-button {
+        background-color: #aaa !important;
     }
 }
 

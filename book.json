@@ -6,6 +6,7 @@
         "website": "styles/style.css"
     },
     "plugins": [
-        "expand-active-chapter"
+        "expand-active-chapter",
+        "copy-code-button"
     ]
 }
